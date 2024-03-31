@@ -21,4 +21,15 @@ bypass:
   - 172.31.*
   - 192.168.*
   - "*shibo552.com"
+  - "cwl.gov.cn"
+  - "lottery.gov.cn"
+  - "*shandong.gov.cn"
+  - "hrsswb.qingdao.gov.cn"
+  - "*account.court.gov.cn"
+  - "qydjfw.qingdao.gov.cn"
+  - "sd.gsxt.gov.cn"
+  - "*800820.net"
+  - "*stats.gov.cn"
+  - "*xueqiu.com"
+  - "*aliyundrive.com"
   - <local>
